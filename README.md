@@ -34,7 +34,7 @@ Users should be able to:
 
 #### Large Screen
 
-![Password-generator-desktop](https://user-images.githubusercontent.com/98456832/195215601-af054c0d-7038-4f62-9fb7-54334dbfb55a.png)
+![Password-generator-desktop](https://user-images.githubusercontent.com/98456832/195217424-5191dbe7-e198-49f6-9abe-534c6659b9d0.png)
 
 
 #### Small Screen
